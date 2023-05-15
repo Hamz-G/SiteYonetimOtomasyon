@@ -1,0 +1,60 @@
+﻿@model SiteYonetimProje.Models.ApartmanModel.ApartmanBilgileri
+@{
+    ViewBag.Title = "ApartmanTanimlama";
+    Layout = "~/Views/Shared/_GenelYonetici.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-5 col-sm-5 ">
+        <div class="x_panel">
+            @if (TempData["apartmanTanimlamaBasarili"] != null)
+            {
+                <p class="alert alert-success" id="successMessage">@TempData["apartmanTanimlamaBasarili"]</p>
+            }
+            <div class="x_title">
+                <h2>Apartman Tanımlama <small>Sistemde bulunmayan apartmanı ekleyiniz</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                    <li>
+                        <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                    </li>
+
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <br />
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="ad">
+                            Apartman Blok<span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.ApartmanBlok, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "ad" , @maxlength = "1", @style = "text-transform:uppercase" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="soyad">
+                            Apartman Numarası <span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.ApartmanNo, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "soyad" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="soyad">
+                            Daire Sayısı <span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.DaireSayisi, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "soyad" } })
+                    </div>
+                    <div class="ln_solid"></div>
+                    <div class="item form-group">
+                        <div class="col-md-6 col-sm-6 offset-md-3">
+                            <button class="btn btn-primary" type="reset">Sıfırla</button>
+                            <button type="submit" class="btn btn-success">Tanımla</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

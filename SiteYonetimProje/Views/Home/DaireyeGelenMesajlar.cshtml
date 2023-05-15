@@ -1,0 +1,75 @@
+﻿@model IEnumerable<SiteYonetimProje.Models.ApartmanModel.MesajIslemleri>
+@{
+    ViewBag.Title = "DaireyeGelenMesajlar";
+    Layout = "~/Views/Shared/_Home.cshtml";
+}
+
+<div class="">
+    <div class="clearfix"></div>
+    <div class="row">
+        @if (TempData["onayIslemiBasarili"] != null)
+        {
+            <h2 class="alert alert-success" id="successMessage">@TempData["onayIslemiBasarili"]</h2>
+        }
+        <div class="col-md-12 col-sm-12 ">
+            <div class="x_panel">
+                <div class="x_title">
+                    <h2>Daireye Gelen Mesajlar<small>Yönetici tarafından Daireye gönderilen mesajlar</small></h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                        <li>
+                            <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="x_content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="card-box table-responsive">
+
+
+                                <table id="datatable-responsive" class="table table-striped table-bordered dt-responsive nowrap" cellspacing="0" width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th>Mesaj</th>
+                                            <td>Kim Tarafından</td>
+                                            <td>Daire Numarası</td>
+                                            <th>Durum</th>
+
+
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>@item.Mesaj</td>
+                                                <td>Yönetici</td>
+                                                <td>@item.Gonderen_DaireNo</td>
+                                                @if (item.OkunduDurum == 0)
+                                                {
+                                                    <td>@Html.ActionLink("Tamamla", "MesajOnay", "Home", new { id = item.Id }, new { @class = "btn btn-warning" })</td>
+                                                }
+                                                else if (item.OkunduDurum == 1)
+                                                {
+                                                    <td><button class="btn btn-success" disabled>Okundu</button></td>
+                                                }
+
+                                            </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+

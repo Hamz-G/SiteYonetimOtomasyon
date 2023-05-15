@@ -1,0 +1,62 @@
+﻿@model IEnumerable<SiteYonetimProje.Identity.ApplicationUser>
+@{
+    ViewBag.Title = "HavuzVeyaSporSalonuSikayeti";
+    Layout = "~/Views/Shared/_Home.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-5 col-sm-5 ">
+        <div class="x_panel">
+
+            @if (TempData["RandevuBasarili"] != null)
+            {
+                <p class="alert alert-success" id="successMessage">@TempData["RandevuBasarili"]</p>
+            }
+            <div class="x_title">
+                <h2>Temizlik Görevlisi Seçerek Şikayetinizi Gerçekleştirebilirsiniz</h2>
+                <ul class="nav navbar-right panel_toolbox">
+                    <li>
+                        <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                    </li>
+
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <br />
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+                    <div class="form-group row">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align">
+                            Saat <span class="required">*</span>
+                        </label>
+                        <div class="col-md-6 col-sm-6 ">
+                            <select class="form-control" name="sikayetAlani">
+                                <option value="havuz">Havuz Bakım Şikayeti</option>
+                                <option value="sporSalonu">Spor Salonu Bakım Şikayeti</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="ad">
+                            Mesaj<span class="required">*</span>
+                        </label>
+                        <textarea name="sikayet" style="width:310px;height:150px;"></textarea>
+                    </div>
+                    <div class="ln_solid"></div>
+                    <div class="item form-group">
+                        <div class="col-md-6 col-sm-6 offset-md-3">
+                            <button class="btn btn-primary" type="reset">Sıfırla</button>
+                            <button type="submit" class="btn btn-success" name="id">Gönder</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+
+

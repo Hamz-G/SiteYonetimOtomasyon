@@ -1,0 +1,82 @@
+﻿@model IEnumerable<SiteYonetimProje.Models.GorevModel.Gorev>
+@{
+    ViewBag.Title = "TemizlikRandevulari";
+    Layout = "~/Views/Shared/_Yonetici.cshtml";
+}
+
+<div class="">
+    <div class="clearfix"></div>
+    <div class="row">
+
+        <div class="col-md-12 col-sm-12 ">
+            @if (TempData["onayIslemiBasarili"] != null)
+            {
+                <h2 class="alert alert-success" id="successMessage">@TempData["onayIslemiBasarili"]</h2>
+            }
+            <div class="x_panel">
+                <div class="x_title">
+                    <h2>Apartmandaki Temizlik Randevu Bilgileri<small>Apartmandaki temizlik randevularının tümü</small></h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                        <li>
+                            <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="x_content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="card-box table-responsive">
+
+
+                                <table id="datatable-responsive" class="table table-striped table-bordered dt-responsive nowrap" cellspacing="0" width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th>Apartman Blok</th>
+                                            <th>Apartman Numarası</th>
+                                            <th>Daire Numarası</th>
+                                            <th>Tarih</th>
+                                            <th>Saat</th>
+                                            <th>Durum</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>@item.ApartmanBlok</td>
+                                                <td>@item.ApartmanNo</td>
+                                                <td>@item.DaireNo</td>
+                                                <td>@item.Tarih</td>
+                                                <td>@item.Saat</td>
+                                                @if (item.Aktiflik == 1 && item.Tamamlandi == 0)
+                                                {
+                                                    <td><button name="id" class="btn btn-warning" disabled>Beklemede</button></td>
+
+                                                }
+                                                @if (item.Aktiflik == 0 && item.Tamamlandi == 0)
+                                                {
+                                                    <td><button name="id" class="btn btn-info" disabled>Onay Bekliyor</button></td>
+
+                                                }
+                                                @if (item.Aktiflik == 1 && item.Tamamlandi == 1)
+                                                {
+                                                    <td><button name="id" class="btn btn-success" disabled>Tamamlandı</button></td>
+                                                }
+                                            </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>

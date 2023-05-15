@@ -1,0 +1,608 @@
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\SiteYonetimProje.dll.config
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\SiteYonetimProje.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\SiteYonetimProje.pdb
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\csc.exe
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\csc.exe.config
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\csc.rsp
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\csi.exe
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\csi.exe.config
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\csi.rsp
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.AppContext.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Console.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Net.Http.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Net.Sockets.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\vbc.exe
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\vbc.exe.config
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\vbc.rsp
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Antlr3.Runtime.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Newtonsoft.Json.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Helpers.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Mvc.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Optimization.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Razor.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.WebPages.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\WebGrease.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Helpers.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Mvc.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Optimization.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.Razor.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.WebPages.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Newtonsoft.Json.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Antlr3.Runtime.pdb
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.AssemblyReference.cache
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CoreCompileInputs.cache
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CopyComplete
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\obj\Debug\SiteYonetimProje.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\obj\Debug\SiteYonetimProje.pdb
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\EntityFramework.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Owin.dll
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\EntityFramework.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio Examples\SiteYonetimProje\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.dll.config
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.pdb
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\csc.exe
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\csc.exe.config
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\csc.rsp
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\csi.exe
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\csi.exe.config
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\csi.rsp
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.AppContext.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Collections.Immutable.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Console.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Globalization.Calendars.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.Compression.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Net.Http.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Net.Sockets.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.ValueTuple.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XPath.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\vbc.exe
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\vbc.exe.config
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\vbc.rsp
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe.config
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Antlr3.Runtime.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\EntityFramework.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\EntityFramework.SqlServer.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Web.Infrastructure.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Newtonsoft.Json.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Owin.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Helpers.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Mvc.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Optimization.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Razor.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Deployment.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Razor.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\WebGrease.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\EntityFramework.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\EntityFramework.SqlServer.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Helpers.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Mvc.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Optimization.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.Razor.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Deployment.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Razor.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Newtonsoft.Json.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Antlr3.Runtime.pdb
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.AssemblyReference.cache
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CoreCompileInputs.cache
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CopyComplete
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.dll
+D:\VisualStudioExamples\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.pdb
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\SiteYonetimProje.dll.config
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\SiteYonetimProje.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\SiteYonetimProje.pdb
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\csc.exe
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\csc.exe.config
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\csc.rsp
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\csi.exe
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\csi.exe.config
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\csi.rsp
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.AppContext.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Collections.Immutable.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Console.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Globalization.Calendars.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.IO.Compression.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Net.Http.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Net.Sockets.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Reflection.Metadata.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.ValueTuple.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Xml.XPath.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\vbc.exe
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\vbc.exe.config
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\vbc.rsp
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe.config
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Antlr3.Runtime.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\EntityFramework.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\EntityFramework.SqlServer.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Security.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Web.Infrastructure.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Newtonsoft.Json.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Owin.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Helpers.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Mvc.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Optimization.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Razor.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.WebPages.Deployment.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.WebPages.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.WebPages.Razor.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\WebGrease.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\EntityFramework.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\EntityFramework.SqlServer.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Security.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Helpers.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Mvc.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Optimization.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.Razor.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.WebPages.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.WebPages.Deployment.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\System.Web.WebPages.Razor.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Newtonsoft.Json.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Antlr3.Runtime.pdb
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.AssemblyReference.cache
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CoreCompileInputs.cache
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CopyComplete
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\obj\Debug\SiteYonetimProje.dll
+D:\Visual Studio Examples\SiteYonetim\SiteYonetimProje\obj\Debug\SiteYonetimProje.pdb
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.dll.config
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.pdb
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\csc.exe
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\csc.exe.config
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\csc.rsp
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\csi.exe
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\csi.exe.config
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\csi.rsp
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.AppContext.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Console.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Net.Http.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\vbc.exe
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\vbc.exe.config
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\vbc.rsp
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Antlr3.Runtime.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\EntityFramework.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\EntityFramework.SqlServer.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Newtonsoft.Json.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Owin.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Helpers.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Mvc.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Optimization.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Razor.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\WebGrease.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\EntityFramework.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\EntityFramework.SqlServer.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Helpers.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Mvc.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Optimization.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.Razor.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Newtonsoft.Json.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Antlr3.Runtime.pdb
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csprojAssemblyReference.cache
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CopyComplete
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.dll
+C:\Users\hamza\Desktop\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.pdb
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.dll.config
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\SiteYonetimProje.pdb
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\csc.exe
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\csc.exe.config
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\csc.rsp
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\csi.exe
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\csi.exe.config
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\csi.rsp
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.AppContext.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Console.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Net.Http.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\vbc.exe
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\vbc.exe.config
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\vbc.rsp
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Antlr3.Runtime.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\EntityFramework.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\EntityFramework.SqlServer.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Newtonsoft.Json.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Owin.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Helpers.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Mvc.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Optimization.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Razor.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\WebGrease.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\EntityFramework.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\EntityFramework.SqlServer.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Helpers.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Mvc.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Optimization.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.Razor.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Newtonsoft.Json.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Antlr3.Runtime.pdb
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CopyComplete
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.dll
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.pdb
+C:\Users\hamza\Desktop\apartman yönetimi\ProjeA\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.AssemblyReference.cache
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\SiteYonetimProje.dll.config
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\SiteYonetimProje.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\SiteYonetimProje.pdb
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\csc.exe
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\csc.exe.config
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\csc.rsp
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\csi.exe
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\csi.exe.config
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\csi.rsp
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.AppContext.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Console.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.IO.Compression.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Net.Http.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Net.Sockets.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.ValueTuple.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Xml.XPath.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\vbc.exe
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\vbc.exe.config
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\vbc.rsp
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Antlr3.Runtime.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\EntityFramework.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\EntityFramework.SqlServer.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Security.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Newtonsoft.Json.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Owin.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Helpers.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Mvc.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Optimization.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Razor.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.WebPages.Deployment.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.WebPages.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.WebPages.Razor.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\WebGrease.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\EntityFramework.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\EntityFramework.SqlServer.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Security.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Helpers.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Mvc.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Optimization.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.Razor.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.WebPages.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.WebPages.Deployment.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\System.Web.WebPages.Razor.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Newtonsoft.Json.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Antlr3.Runtime.pdb
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.AssemblyReference.cache
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CoreCompileInputs.cache
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\obj\Debug\SiteYonetimProje.csproj.CopyComplete
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\obj\Debug\SiteYonetimProje.dll
+C:\Users\hamza\Desktop\SiteYonetimOotomasyon\SiteYonetimProje\obj\Debug\SiteYonetimProje.pdb

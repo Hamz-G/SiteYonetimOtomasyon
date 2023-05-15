@@ -1,0 +1,64 @@
+﻿@model IEnumerable<SiteYonetimProje.Models.ApartmanModel.ApartmanBilgileri>
+@{
+    ViewBag.Title = "YoneticiListesi";
+    Layout = "~/Views/Shared/_GenelYonetici.cshtml";
+}
+
+<div class="">
+    <div class="clearfix"></div>
+    <div class="row">
+
+        <div class="col-md-12 col-sm-12 ">
+            <div class="x_panel">
+                <div class="x_title">
+                    <h2>Yönetici Listesi<small>Apartmanların yöneticileri</small></h2>
+                    <ul class="nav navbar-right panel_toolbox">
+                        <li>
+                            <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                        </li>
+                    </ul>
+                    <div class="clearfix"></div>
+                </div>
+                <div class="x_content">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <div class="card-box table-responsive">
+
+
+                                <table id="datatable-responsive" class="table table-striped table-bordered dt-responsive nowrap" cellspacing="0" width="100%">
+                                    <thead>
+                                        <tr>
+                                            <th>Yönetici Ad</th>
+                                            <th>Yönetici Soyad</th>
+                                            <th>Apartman Blok</th>
+                                            <th>Apartman No</th>
+                                            <th>Daire Sayısı</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody>
+                                        @foreach (var item in Model)
+                                        {
+                                            <tr>
+                                                <td>@item.YoneticiAd</td>
+                                                <td>@item.YoneticiSoyad</td>
+                                                <td>@item.ApartmanBlok</td>
+                                                <td>@item.ApartmanNo</td>
+                                                <td>@item.DaireSayisi</td>
+                                                
+                                            </tr>
+                                        }
+
+                                    </tbody>
+                                </table>
+
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+    </div>
+</div>

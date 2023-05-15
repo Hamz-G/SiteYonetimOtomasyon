@@ -1,0 +1,82 @@
+﻿@model SiteYonetimProje.Models.AccountModel.KayitOlustur
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title> Giriş Yap </title>
+
+    <!-- Bootstrap -->
+    <link href="/Content/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="/Content/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="/Content/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="/Content/vendors/animate.css/animate.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="/Content/build/css/custom.min.css" rel="stylesheet">
+</head>
+
+<body class="login">
+    <div>
+        <div class="login_wrapper">
+            <div id="register" class="animate form ">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <section class="login_content">
+                    @using (Html.BeginForm())
+                    {
+                        @Html.AntiForgeryToken()
+
+                        <h1>Kayıt Oluştur</h1>
+                        <div>
+                            @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Kullanıcı Adınız" } })
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                        </div>
+                        <div>
+                            @Html.ValidationMessageFor(model => model.Email, "", new { @class = "text-danger" })
+                            @Html.EditorFor(model => model.Email, new { htmlAttributes = new { @class = "form-control", @placeholder = "E-posta Adresiniz" } })
+
+                        </div>
+                        <div>
+                            @Html.ValidationMessageFor(model => model.Sifre, "", new { @class = "text-danger" })
+                            @Html.EditorFor(model => model.Sifre, new { htmlAttributes = new { @class = "form-control", @placeholder = "Şifreniz" } })
+
+                        </div>
+                        <div>
+                            <button class="btn btn-default" type="submit">Kayıt Ol</button>
+                        </div>
+
+                        <div class="clearfix"></div>
+
+                        <div class="separator">
+                            <p class="change_link">
+                                Üye Misiniz ?
+                                <a href="/Account/GirisYap" class="to_register"> Giriş Yap </a>
+                            </p>
+
+                            <div class="clearfix"></div>
+                            <br />
+
+                            <div>
+                                <h1><i class="fa fa-building"></i> KOU Konutları</h1>
+                                <p>©KOU Konutları 2008'den beri</p>
+                            </div>
+                        </div>
+
+                    }
+                </section>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>

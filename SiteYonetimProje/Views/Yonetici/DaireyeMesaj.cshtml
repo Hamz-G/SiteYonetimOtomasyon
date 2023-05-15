@@ -1,0 +1,46 @@
+﻿@model SiteYonetimProje.Models.ApartmanModel.MesajIslemleri
+@{
+    ViewBag.Title = "DaireyeMesaj";
+    Layout = "~/Views/Shared/_Yonetici.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-5 col-sm-5 ">
+        <div class="x_panel">
+            
+            <div class="x_title">
+                <h2>Daireye Mesaj <small>Daireye göndermek istediğiniz mesajı giriniz..</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                    <li>
+                        <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                    </li>
+
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <br />
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="ad">
+                            Mesaj<span class="required">*</span>
+                        </label>
+                        @Html.TextAreaFor(model => model.Mesaj, new { style = "width: 300px; height:150px;" })
+                    </div>
+                    
+                    <div class="ln_solid"></div>
+                    <div class="item form-group">
+                        <div class="col-md-6 col-sm-6 offset-md-3">
+                            <button class="btn btn-primary" type="reset">Sıfırla</button>
+                            <button type="submit" class="btn btn-success" name="kullaniciId" value="@ViewBag.kullaniciId">Gönder</button>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
+

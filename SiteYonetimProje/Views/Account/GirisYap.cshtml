@@ -1,0 +1,95 @@
+﻿@model SiteYonetimProje.Models.AccountModel.Giris
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title> Giriş Yap </title>
+
+    <!-- Bootstrap -->
+    <link href="/Content/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="/Content/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="/Content/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="/Content/vendors/animate.css/animate.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="/Content/build/css/custom.min.css" rel="stylesheet">
+</head>
+
+
+<body class="login">
+    <div>
+        <a class="hiddenanchor" id="signup"></a>
+        <a class="hiddenanchor" id="signin"></a>
+
+        <div class="login_wrapper">
+            <div class="animate form login_form">
+                @if (TempData["kayitBasarili"] != null)
+                {
+                    <p class="alert alert-success" id="successMessage">@TempData["kayitBasarili"]</p>
+                }
+                @if (TempData["SifreYenileme"] != null)
+                {
+                    <p class="alert alert-success" id="successMessage">@TempData["SifreYenileme"]</p>
+                }
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <section class="login_content">
+                    @using (Html.BeginForm("GirisYap", "Account", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <h1>Giriş Ekranı</h1>
+                        <div>
+                            @Html.ValidationMessageFor(model => model.UserName, "", new { @class = "text-danger" })
+                            @Html.EditorFor(model => model.UserName, new { htmlAttributes = new { @class = "form-control", @placeholder = "Kullanıcı Adınız" } })
+
+                        </div>
+                        <div>
+                            @Html.ValidationMessageFor(model => model.Sifre, "", new { @class = "text-danger" })
+                            @Html.EditorFor(model => model.Sifre, new { htmlAttributes = new { @class = "form-control", @placeholder = "Şifreniz" } })
+
+                        </div>
+                        <div>
+                            <div>
+                                <button class="btn btn-default" type="submit">Giriş Yap</button>
+                            </div>
+                            <a class="reset_pass" href="/account/sifreyenileme">Şifre Sıfırlama</a>
+                        </div>
+                        <div class="clearfix"></div>
+                        <div class="separator">
+                            <p class="change_link">
+                                Yeni Kullanıcı Mısınız ?
+                                <a href="/account/kayitol" class="to_register"> Kayıt Ol </a>
+                            </p>
+
+                            <div class="clearfix"></div>
+                            <br />
+
+                            <div>
+                                <h1><i class="fa fa-building"></i> KOU Konutları</h1>
+                                <p>©KOU 2008'den beri</p>
+                            </div>
+                        </div>
+                    }
+                </section>
+
+            </div>
+
+
+
+
+        </div>
+    </div>
+</body>
+
+</html>

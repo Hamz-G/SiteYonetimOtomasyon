@@ -1,0 +1,81 @@
+﻿@model SiteYonetimProje.Models.AccountModel.KayitOlustur
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Meta, title, CSS, favicons, etc. -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title> KOU Konutları </title>
+
+    <!-- Bootstrap -->
+    <link href="/Content/vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome -->
+    <link href="/Content/vendors/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- NProgress -->
+    <link href="/Content/vendors/nprogress/nprogress.css" rel="stylesheet">
+    <!-- Animate.css -->
+    <link href="/Content/vendors/animate.css/animate.min.css" rel="stylesheet">
+
+    <!-- Custom Theme Style -->
+    <link href="/Content/build/css/custom.min.css" rel="stylesheet">
+</head>
+
+
+<body class="login">
+    <div>
+
+
+        <div class="login_wrapper">
+            <div class="animate form login_form">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <section class="login_content">
+                    @using (Html.BeginForm("GirisYap", "Account", FormMethod.Post))
+                    {
+                        @Html.AntiForgeryToken()
+                        <h1><i class="fa fa-building"></i> KOU Konutları</h1>
+                        <br />
+                        <h4>Hoşgeldiniz</h4>
+                        <br />
+
+                        <div class="clearfix"></div>
+
+                        <div class="separator">
+                        </div>
+                        <br />
+                        <h5><a href="/Account/GirisYap" style="color: #5A738E;"> Giriş Yap </a></h5>
+
+                        <p class="change_link">
+                            Yeni Kullanıcı Mısınız ?
+                            <a href="/Account/KayitOl" class="to_register"> Kayıt Ol </a>
+                        </p>
+
+                        <div class="clearfix"></div>
+                        <br />
+
+                        <br /><br />
+                        <br /><br />
+                        <br /><br />
+                        <br /><br />
+                        <br /><br />
+                        <div>
+
+                            <p>©KOU Konutları 2008'den beri</p>
+                        </div>
+                    }
+                </section>
+                
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
+

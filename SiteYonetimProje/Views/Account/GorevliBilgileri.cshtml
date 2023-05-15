@@ -1,0 +1,141 @@
+﻿@model SiteYonetimProje.Models.AccountModel.KisiselBilgiler
+@{
+    ViewBag.Title = "GorevliBilgileri";
+    Layout = "~/Views/Shared/_Account.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12 col-sm-12 ">
+        <div class="x_panel">
+            <div class="x_title">
+                <h2>Görevli Bilgileri <small>Belirtilen alanları doldurunuz.</small></h2>
+                <ul class="nav navbar-right panel_toolbox">
+                    <li>
+                        <a class="collapse-link"><i class="fa fa-chevron-up"></i></a>
+                    </li>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-wrench"></i></a>
+                        <ul class="dropdown-menu" role="menu">
+                            <li>
+                                <a class="dropdown-item" href="#">Settings 1</a>
+                            </li>
+                            <li>
+                                <a class="dropdown-item" href="#">Settings 2</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a class="close-link"><i class="fa fa-close"></i></a>
+                    </li>
+                </ul>
+                <div class="clearfix"></div>
+            </div>
+            <div class="x_content">
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+                <br />
+                @using (Html.BeginForm())
+                {
+                    @Html.AntiForgeryToken()
+
+
+
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="ad">
+                            Adınız<span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.Ad, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "ad" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="soyad">
+                            Soyadınız <span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.Soyad, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "soyad" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="telefon">
+                            Telefon Numaranız <span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.Telefon, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "telefon" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align">Cinsiyet</label>
+                        <div class="col-md-6 col-sm-6 ">
+                            <div id="gender" class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                    @Html.RadioButtonFor(model => model.Cinsiyet, "1", new { htmlAttributes = new { @class = "join-btn" } }) Erkek
+                                </label>
+                                <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                    @Html.RadioButtonFor(model => model.Cinsiyet, "2", new { htmlAttributes = new { @class = "join-btn" } })  &nbsp;Kadın &nbsp;
+
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align">Göreviniz</label>
+                        <div class="col-md-6 col-sm-6 ">
+                            <div id="gender" class="btn-group" data-toggle="buttons">
+                                <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                    @Html.RadioButtonFor(model => model.Gorev, "4", new { htmlAttributes = new { @class = "join-btn" } }) &nbsp;Temizlik Görevlisi &nbsp;
+                                </label>
+                                <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                    @Html.RadioButtonFor(model => model.Gorev, "5", new { htmlAttributes = new { @class = "join-btn" } }) Havuz Görevlisi
+                                </label>
+                                <label class="btn btn-default" data-toggle-class="btn-primary" data-toggle-passive-class="btn-default">
+                                    @Html.RadioButtonFor(model => model.Gorev, "6", new { htmlAttributes = new { @class = "join-btn" } })  Spor Salonu Görevlisi
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align">
+                            Doğum Tarihi <span class="required">*</span>
+                        </label>
+                        <div class="col-md-6 col-sm-6 ">
+                            <input name="dg" id="birthday" class="date-picker form-control" placeholder="dd-mm-yyyy" type="text" required="required" onfocus="this.type='date'" onmouseover="this.type='date'" onclick="this.type='date'" onblur="this.type='text'" onmouseout="timeFunctionLong(this)">
+                            <script>
+                                function timeFunctionLong(input) {
+                                    setTimeout(function () {
+                                        input.type = 'text';
+                                    }, 60000);
+                                }
+                            </script>
+                        </div>
+                    </div>
+
+
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="ad">
+                            Apartman Blok<span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.ApartmanBlok, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6", @id = "ad", @maxlength = "1", @style = "text-transform:uppercase" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="soyad">
+                            Apartman Numarası <span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.ApartmanNo, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6" } })
+                    </div>
+                    <div class="item form-group">
+                        <label class="col-form-label col-md-3 col-sm-3 label-align" for="soyad">
+                            Daire Numarası <span class="required">*</span>
+                        </label>
+                        @Html.EditorFor(model => model.DaireNo, new { htmlAttributes = new { @class = "form-control col-md-6 col-sm-6" } })
+                    </div>
+                    <div class="ln_solid"></div>
+                    <div class="item form-group">
+                        <div class="col-md-6 col-sm-6 offset-md-3">
+
+                            <button class="btn btn-primary" type="reset">Sıfırla</button>
+                            <button type="submit" class="btn btn-success">Kaydet</button>
+                        </div>
+                    </div>
+
+
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
+
